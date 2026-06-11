@@ -1,4 +1,8 @@
+streamlit
+
+
 #utilitites
+
 numpy
 pandas
 #face recognition
@@ -15,3 +19,5 @@ bcrypt
 
 segno
 pillow
+librosa
+resemblyzer
