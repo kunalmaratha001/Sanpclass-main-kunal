@@ -3,11 +3,6 @@ import streamlit as st
 
 from src.screen.home_screen import home_screen
 
-import sys
-import os
-
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-
 from src.screen.teacher_screen import teacher_screen
 from src.screen.student_screen import student_screen
 
